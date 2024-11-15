@@ -1,0 +1,1 @@
+# -Ex.No-10-Implementation-of-Negamax-Search
